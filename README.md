@@ -3,7 +3,7 @@
 Using WorldTime API.
 WorldTimeAPI is a simple web service which returns the local-time for a given timezone as either JSON or plain-text
 
-#Screenshots
+# Screenshots
 
 ![Screenshot_2020-10-26-11-12-34-02](https://user-images.githubusercontent.com/59717384/97137250-60c8d200-1723-11eb-83c4-5fac331c6c6d.png)
 
