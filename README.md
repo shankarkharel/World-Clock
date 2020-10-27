@@ -22,6 +22,6 @@ WorldTimeAPI is a simple web service which returns the local-time for a given ti
 
 
 
-Thanks
+Thanks!
 
 
